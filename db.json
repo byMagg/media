@@ -1,0 +1,42 @@
+{
+  "users": [
+    {
+      "name": "Jody Torphy DVM",
+      "id": 1
+    },
+    {
+      "name": "Ron Ondricka",
+      "id": 2
+    },
+    {
+      "name": "Vickie Hirthe",
+      "id": 3
+    },
+    {
+      "name": "Alexis Fritsch",
+      "id": 4
+    },
+    {
+      "name": "Erick Mertz",
+      "id": 5
+    }
+  ],
+  "albums": [
+    {
+      "userId": 1,
+      "title": "Practical Fresh Pants",
+      "id": 1
+    },
+    {
+      "userId": 1,
+      "title": "Recycled Cotton Table",
+      "id": 2
+    },
+    {
+      "userId": 1,
+      "title": "Handcrafted Bronze Sausages",
+      "id": 3
+    }
+  ],
+  "photos": []
+}
